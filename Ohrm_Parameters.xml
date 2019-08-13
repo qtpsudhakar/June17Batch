@@ -1,0 +1,13 @@
+<suite name="reg" parallel="tests">
+
+	<test name="ctest">
+		<parameters>
+			<parameter name="browser" value="chrome" />
+		</parameters>
+
+		<classes>
+			<class name="com.tests.OhrmAddEmployee" />
+		</classes>
+	</test>
+
+</suite>

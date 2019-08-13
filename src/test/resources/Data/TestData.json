@@ -1,0 +1,22 @@
+{
+	"AddEmployee": [
+		{
+			"firstName": "John",
+			"lastName": "Doe"
+		},
+		{
+			"firstName": "Anna",
+			"lastName": "Smith"
+		}
+	],
+	"DeleteEmployeeTest": [
+		{
+			"firstName": "sudhakar",
+			"lastName": "k"
+		},
+		{
+			"firstName": "Anna",
+			"lastName": "Smith"
+		}
+	]
+}

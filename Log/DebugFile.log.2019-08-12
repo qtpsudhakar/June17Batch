@@ -1,0 +1,48 @@
+2019-08-12 07:15:13,446  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-12 07:15:13,770  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-12 07:15:15,840  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-12 07:15:18,691  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-12 07:15:19,803  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.partialLinkText: Add Emp
+2019-08-12 07:15:20,209  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - selenium entered on By.id: firstName
+2019-08-12 07:15:20,445  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - hq entered on By.id: lastName
+2019-08-12 07:15:22,291  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.xpath: //input[@value='Save']
+2019-08-12 07:21:21,382  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-12 07:21:21,652  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-12 07:21:23,338  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-12 07:21:26,937  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-12 07:21:27,964  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.partialLinkText: Add Emp
+2019-08-12 07:21:28,325  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - selenium entered on By.id: firstName
+2019-08-12 07:21:28,626  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - hq entered on By.id: lastName
+2019-08-12 07:21:30,291  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.xpath: //input[@value='Save']
+2019-08-12 07:26:09,205  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-12 07:26:09,454  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-12 07:26:11,408  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-12 07:26:15,140  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-12 07:26:16,085  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.partialLinkText: Add Emp
+2019-08-12 07:26:16,404  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - selenium entered on By.id: firstName
+2019-08-12 07:26:16,633  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - hq entered on By.id: lastName
+2019-08-12 07:26:18,164  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.xpath: //input[@value='Save']
+2019-08-12 08:06:21,114  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-12 08:06:21,405  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-12 08:06:23,170  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-12 08:06:26,768  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-12 08:06:27,744  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.partialLinkText: Add Emp
+2019-08-12 08:06:28,118  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - selenium entered on By.id: firstName
+2019-08-12 08:06:28,314  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - hq entered on By.id: lastName
+2019-08-12 08:06:30,065  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.xpath: //input[@value='Save']
+2019-08-12 08:17:38,710  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-12 08:17:39,084  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-12 08:17:40,886  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-12 08:17:43,795  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-12 08:17:44,885  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.partialLinkText: Add Emp
+2019-08-12 08:17:45,319  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - selenium entered on By.id: firstName
+2019-08-12 08:17:45,528  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - hq entered on By.id: lastName
+2019-08-12 08:17:47,114  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.xpath: //input[@value='Save']
+2019-08-12 08:20:29,103  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-12 08:20:29,363  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-12 08:20:31,079  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-12 08:20:34,619  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-12 08:20:35,684  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.partialLinkText: Add Emp
+2019-08-12 08:20:36,110  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - selenium entered on By.id: firstName
+2019-08-12 08:20:36,297  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - hq entered on By.id: lastName
+2019-08-12 08:20:37,884  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.xpath: //input[@value='Save']

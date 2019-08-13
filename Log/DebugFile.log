@@ -1,0 +1,17 @@
+2019-08-13 07:27:48,068  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-13 07:27:48,392  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-13 07:27:50,329  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-13 07:28:10,425 ERROR (com.wd.core.SeleniumWrapper:click -(Line Number-20)) - Failed to click onBy.linkText: PIM
+2019-08-13 07:35:43,262  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-13 07:35:43,582  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-13 07:35:45,310  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-13 07:35:48,881  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-13 07:35:49,985  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.partialLinkText: Add Emp
+2019-08-13 07:35:50,365  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - selenium entered on By.id: firstName
+2019-08-13 07:35:50,660  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - hq entered on By.id: lastName
+2019-08-13 07:35:52,657  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.xpath: //input[@value='Save']
+2019-08-13 07:39:05,165  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-13 07:39:05,478  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-13 07:39:07,308  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-13 07:39:07,460  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-13 07:39:27,756 ERROR (com.wd.core.SeleniumWrapper:click -(Line Number-20)) - Failed to click onBy.partialLinkText: Add Emp
