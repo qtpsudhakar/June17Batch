@@ -14,7 +14,9 @@ import com.wd.util.DataUtil;
 
 public class WebUtil extends OhrmBase{
 
-	
+	public void demo() {
+		System.out.println("this is demo");
+	}
 	
 	public static String getScreen() {
 		
