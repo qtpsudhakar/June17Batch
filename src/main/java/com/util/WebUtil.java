@@ -16,6 +16,7 @@ public class WebUtil extends OhrmBase{
 
 	public void demo() {
 		System.out.println("this is demo");
+		System.out.println("this is new change");
 	}
 	
 	public static String getScreen() {
