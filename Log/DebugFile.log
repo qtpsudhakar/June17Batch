@@ -15,3 +15,11 @@
 2019-08-13 07:39:07,308  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
 2019-08-13 07:39:07,460  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
 2019-08-13 07:39:27,756 ERROR (com.wd.core.SeleniumWrapper:click -(Line Number-20)) - Failed to click onBy.partialLinkText: Add Emp
+2019-08-13 08:20:21,047  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin entered on By.id: txtUsername
+2019-08-13 08:20:21,237  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - admin123 entered on By.name: txtPassword
+2019-08-13 08:20:23,039  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.id: btnLogin
+2019-08-13 08:20:26,524  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.linkText: PIM
+2019-08-13 08:20:27,369  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.partialLinkText: Add Emp
+2019-08-13 08:20:27,608  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - selenium entered on By.id: firstName
+2019-08-13 08:20:27,742  INFO (com.wd.core.SeleniumWrapper:enterText -(Line Number-30)) - hq entered on By.id: lastName
+2019-08-13 08:20:29,269  INFO (com.wd.core.SeleniumWrapper:click -(Line Number-17)) - clicked on By.xpath: //input[@value='Save']
