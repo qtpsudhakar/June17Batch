@@ -27,7 +27,7 @@ public class C2Calculator {
 		capabilities.setCapability("appActivity", "com.android.calculator2.Calculator");
 
 		AppiumDriver driver = new AndroidDriver(new URL("http://0.0.0.0:4723/wd/hub"), capabilities);
-
+		
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 
 		driver.findElement(MobileBy.id("com.android.calculator2:id/digit_2")).click();
